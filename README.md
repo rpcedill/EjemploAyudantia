@@ -1,2 +1,1 @@
-Wenas wenas
-ya me siento programador
+Este readme es de rama 2
